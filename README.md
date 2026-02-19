@@ -118,17 +118,4 @@ gpa-forecast-dashboard/
 
 ---
 
-## 👤 Author
 
-**Vivy Sang** – Data Science Student at USIU-Africa
-
-📧 Contact: [vivy@example.com](mailto:vivy@example.com)
-
-```
-
----
-
-If you want, I can **also make a matching `requirements.txt`** that works perfectly with this app so anyone can install everything with **one command**.  
-
-Do you want me to do that next?
-```
